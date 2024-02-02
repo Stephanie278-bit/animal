@@ -1,0 +1,67 @@
+
+
+
+container { border: 1px solid black;
+}
+
+.container {border: 2px solid black;
+padding: 1px;
+}
+
+
+/* #card {
+  font-style: italic;
+  padding: 1em;
+  font-style: normal;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+} */
+
+
+.animal-info {
+border: 2px solid black;
+font-style: italic;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+width: 25%;
+
+}
+ul {list-style: none;
+  padding: 1em;
+  font-weight: bold;
+
+}
+li span { font-weight: bold;
+}
+
+h1{
+  
+  text-align: center;
+}
+
+/* img { */
+ 
+  /* width: 25%;
+  height: 25%;
+  padding: 15%;
+  text-align: center;
+} */
+
+#summary{
+  padding: 1em;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+/* *{
+  box-sizing: border-box;
+} */
